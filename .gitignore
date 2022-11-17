@@ -1,0 +1,5 @@
+venv/
+conf/secret.json
+browser/
+templates/
+facility/
